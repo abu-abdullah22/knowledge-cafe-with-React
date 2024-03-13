@@ -1,0 +1,34 @@
+[
+    {
+      "id": "001",
+      "cover": "https://i.ibb.co/v4qSXzK/Rectangle-1.png",
+      "title": "The Lost Expedition",
+      "author": "James T. Everest",
+      "author_image": "https://i.ibb.co/5RB8TM4/Ellipse-1.png",
+      "reading_time": 5,
+      "posted_date": "2024-03-13",
+      "hashtags": ["#beginners", "#programming"]
+    },
+    {
+      "id": "002",
+      "cover": "https://i.ibb.co/n79ZXyB/Rectangle-1-1.png",
+      "title": "Secrets of the Forbidden Temple",
+      "author": "Alexandra Rivers",
+      "author_image": "https://i.ibb.co/W6jvjYy/Ellipse-1-1.png",
+      "reading_time": 10,
+      "posted_date": "2024-03-12",
+      "hashtags":  ["#beginners", "#programming"]
+    },
+    {
+      "id": "003",
+      "cover": "https://i.ibb.co/tPfF7Pq/Rectangle-1-2.png",
+      "title": "The Phantom Detective",
+      "author": "Max Shadow",
+      "author_image": "https://i.ibb.co/zRMyRWX/Ellipse-1-2.png",
+      "reading_time": 12,
+      "posted_date": "2024-03-11",
+      "hashtags":  ["#beginners", "#programming"]
+    }
+    
+  ]
+  
